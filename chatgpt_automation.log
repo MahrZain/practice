@@ -1,0 +1,26 @@
+2025-04-06 09:52:28,843:INFO:Available port found: 6993
+2025-04-06 09:53:32,728:ERROR:Failed to initialize WebDriver: Message: session not created: cannot connect to chrome at 127.0.0.1:6993
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EF741F55+78133]
+	GetHandleVerifier [0x00007FF6EF741FB0+78224]
+	(No symbol) [0x00007FF6EF508FEC]
+	(No symbol) [0x00007FF6EF4F9D21]
+	(No symbol) [0x00007FF6EF54BF22]
+	(No symbol) [0x00007FF6EF5410EE]
+	(No symbol) [0x00007FF6EF595108]
+	(No symbol) [0x00007FF6EF5946E0]
+	(No symbol) [0x00007FF6EF586F33]
+	(No symbol) [0x00007FF6EF550358]
+	(No symbol) [0x00007FF6EF5510C3]
+	GetHandleVerifier [0x00007FF6EFA0BA8D+3001453]
+	GetHandleVerifier [0x00007FF6EFA05E72+2977874]
+	GetHandleVerifier [0x00007FF6EFA2497D+3103581]
+	GetHandleVerifier [0x00007FF6EF75C7EA+186826]
+	GetHandleVerifier [0x00007FF6EF7643FF+218591]
+	GetHandleVerifier [0x00007FF6EF749D94+110452]
+	GetHandleVerifier [0x00007FF6EF749F42+110882]
+	GetHandleVerifier [0x00007FF6EF730379+5465]
+	BaseThreadInitThunk [0x00007FF90D9E7374+20]
+	RtlUserThreadStart [0x00007FF90EF3CC91+33]
+
